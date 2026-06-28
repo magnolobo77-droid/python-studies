@@ -12,7 +12,7 @@ for numero in lista:
 
 
 if encontrou == False:
-    print("Número nâo encontrado")
+    print("Número não encontrado")
 
 
 # Forma mais comum em Python:
