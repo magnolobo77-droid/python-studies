@@ -1,12 +1,11 @@
-# Algoritmos
+# Algorithms
 
-Repositório com os algoritmos
-desenvolvidos durante meus estudos de 
-Python
+Repository with the algorithms developed 
+my Python studies.
 
-## Conteúdo
+## Content
 
-- Busca Linear
-- Busca Binária
+- Linear Search
+- Binary Search
 - Bubble Sort
 - Slection Sort
