@@ -1,15 +1,15 @@
-# Lista ordenada para realizar a busca binária
+# Ordered list to perform binary search
 lista = [2, 4, 6, 8, 10, 12, 14, 16]
 
 procurado = int(input("Digite um número que deseja procurar: "))
 
-# Limite da busca
+# Search limits
 inicio = 0
 fim = len(lista) - 1
 encontrado = False
 
 while inicio <= fim:
-    # Calcula o elemento central da faixa atual
+    # Calculate the middle element of the current range
     meio = (inicio + fim) // 2
 
     if lista[meio] < procurado:
