@@ -15,8 +15,8 @@ if encontrou == False:
     print("Número não encontrado")
 
 
-# Forma mais comum em Python:
+# More Pythonic way (recommend):
 # if not encontrou:
-# É equivalente a:
+# is equivalent to:
 # if encontrou == False:
         
