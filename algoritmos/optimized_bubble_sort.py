@@ -1,3 +1,17 @@
+"""
+Algorithm: Optimized Bubble Sort
+
+Description:
+Sorts a list in ascending order using
+an optimized Bubble Sort algorithm.
+Stops early if no swaps are made.
+
+Time Complexity:
+Best Case: 0(n)
+Avarage Case: 0(n²)
+Worst Case: 0(n²)
+"""
+
 lista = [8, 3, 9, 2, 1]
 
 trocou = False
