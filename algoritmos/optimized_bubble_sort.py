@@ -1,4 +1,4 @@
-lista = [ 8, 3, 9, 2, 1]
+lista = [8, 3, 9, 2, 1]
 
 trocou = False
 
