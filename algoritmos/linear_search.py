@@ -1,3 +1,16 @@
+"""
+Algorithim: Linear Search
+
+Description:
+Seaches for a value in a list by
+cheking each element sequentially
+
+Time Complexity:
+Best case: 0(1)
+Avarage Case: 0(n)
+Worst Case: 0(n)
+"""
+
 lista = [10, 5, 3, 7, 20]
 
 procurado = int(input("Número que deseja procurar: "))
