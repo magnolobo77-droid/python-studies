@@ -1,10 +1,14 @@
-# Time Complexity:
-# - Best: 0(n²)
-# - Average: 0(n²)
-# - Woert: 0(n²)
+"""
+Algorithm: Classic Bubble Sort
+Description:
+Sorts a list in ascending order by
+repeatedly swapping adjacent elements.
 
-# Space Complexity:
-# - 0(1)
+Time Complexity:
+Bast Case: 0(n²)
+Averange Case: 0(n²)
+Worst Case: 0(n²)
+"""
 lista = [7, 4, 2, 9, 1]
 
 for passada in range(len(lista)):
