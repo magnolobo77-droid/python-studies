@@ -1,3 +1,19 @@
+"""
+Algorithm: Binary Search
+
+Description:
+Searches for a value in a sorted list
+using the divide-and-conquer strategy.
+
+Requeriment:
+The list must be sorted.
+
+Time Complexity:
+Bast Case: 0(1)
+Avarege Case: 0(log n)
+Worst Case: 0(log n)
+"""
+
 # Ordered list to perform binary search
 lista = [2, 4, 6, 8, 10, 12, 14, 16]
 
