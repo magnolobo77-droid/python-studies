@@ -2,7 +2,7 @@
 Algorithim: Linear Search
 
 Description:
-Seaches for a value in a list by
+Searches for a value in a list by
 cheking each element sequentially
 
 Time Complexity:
