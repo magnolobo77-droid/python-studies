@@ -1,5 +1,5 @@
 """
-Algorithim: Linear Search
+Algorithm: Linear Search
 
 Description:
 Searches for a value in a list by
