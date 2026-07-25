@@ -9,3 +9,4 @@ my Python studies.
 - Binary Search
 - Bubble Sort
 - Slection Sort
+- Insertion Sort
